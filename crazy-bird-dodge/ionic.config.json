@@ -1,0 +1,7 @@
+{
+  "name": "crazy-bird-dodge",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
